@@ -1,7 +1,9 @@
 # rsv
 
+
 Read the Revised Standard Version (RSV) Bible directly from your terminal.
 
+Basically a clone of KJV bible on your terminal made by LukeSmith.xyz but using the Catholic RSV instead of KJV.
 
 ## Usage
 
