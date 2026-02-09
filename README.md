@@ -80,7 +80,7 @@ Interactive mode (just run without arguments):
 Install `rsv` by running:
 
 ```
-git clone <your-repository-url>
+git clone https://github.com/CyberDiary2/RSV.git
 cd rsv
 make
 sudo make install
