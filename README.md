@@ -1,6 +1,5 @@
 # rsv
 
-
 Read the Revised Standard Version (RSV) Bible directly from your terminal.
 
 Basically a clone of KJV bible on your terminal made by LukeSmith.xyz but using the Catholic RSV instead of KJV.
@@ -94,10 +93,6 @@ make
 ```
 
 ## Building
-
-The build process creates a self-contained executable by:
-1. Combining the shell script (rsv.sh) with the AWK processor (rsv.awk) and Bible data (rsv.tsv)
-2. Creating a single executable file that extracts and processes data at runtime
 
 Dependencies for building:
 - POSIX-compliant shell
